@@ -1,6 +1,6 @@
 {
   "discord": {
-    "token": "your token from discord api page",
+    "token": "NTQ3NzA1OTM5Nzc2NzY1OTUy.D0_faQ.NqQ_s1GsngHCTbqK2TgvX7TgXVc",
     "helpTimer": "10000",
     "mainChannel": "general",
     "timezoneOffset": 0
