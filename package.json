@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevqiu/BasementBot.git"
+    "url": "git+https://github.com/Abhishek890/BasementBot"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kevqiu/BasementBot/issues"
+    "url": "https://github.com/Abhishek890/BasementBot/issues"
   },
-  "homepage": "https://github.com/kevqiu/BasementBot#readme"
+  "homepage": "https://github.com/Abhishek890/BasementBot#readme"
 }
